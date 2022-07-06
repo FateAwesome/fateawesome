@@ -1,5 +1,5 @@
 # baseURL = "http://example.org/"
-baseURL = "https://fateawesome.github.io/"
+baseURL = "https://fateawesome.github.io/fateawesome/"
 
 publishDir = "docs"
 
