@@ -4,8 +4,8 @@ title: "This is a test Post"
 date: 2020-03-06T21:29:01+08:00
 lastmod: 2020-03-06T21:29:01+08:00
 draft: false
-author: "Dillon"
-authorLink: "https://dillonzq.com"
+author: "Excavator"
+authorLink: ""
 description: "This is a test Post."
 images: []
 resources:
