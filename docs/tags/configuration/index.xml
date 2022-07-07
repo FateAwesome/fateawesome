@@ -3,13 +3,13 @@
         <title>configuration - Tag - Exacavator</title>
         <link>https://fateawesome.github.io/fateawesome/tags/configuration/</link>
         <description>configuration - Tag - Exacavator</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</lastBuildDate><atom:link href="https://fateawesome.github.io/fateawesome/tags/configuration/" rel="self" type="application/rss+xml" /><item>
-    <title>Theme Documentation - Basics</title>
-    <link>https://fateawesome.github.io/fateawesome/theme-documentation-basics/</link>
-    <pubDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>https://fateawesome.github.io/fateawesome/theme-documentation-basics/</guid>
-    <description><![CDATA[<p>Discover what the Hugo - <strong>LoveIt</strong> theme is all about and the core-concepts behind it.</p>]]></description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 08 Jul 2022 00:18:03 &#43;0530</lastBuildDate><atom:link href="https://fateawesome.github.io/fateawesome/tags/configuration/" rel="self" type="application/rss+xml" /><item>
+    <title>Building a simple Malware Analysis Lab</title>
+    <link>https://fateawesome.github.io/fateawesome/malware-analysis-lab/</link>
+    <pubDate>Fri, 08 Jul 2022 00:18:03 &#43;0530</pubDate>
+    <author>Excavator</author>
+    <guid>https://fateawesome.github.io/fateawesome/malware-analysis-lab/</guid>
+    <description><![CDATA[<p>Discover how to build a simple <strong>Malware Analysis Lab</strong>, with all the <strong>Precautions</strong> offcourse.</p>]]></description>
 </item>
 </channel>
 </rss>

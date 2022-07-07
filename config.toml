@@ -362,13 +362,13 @@ languageName = "English"
       # Disqus comment config
       [params.page.comment.disqus]
         # 
-        enable = true
+        enable = false
         # Disqus shortname to use Disqus in posts
         shortname = ""
       # Gitalk comment config
       [params.page.comment.gitalk]
         # 
-        enable = true
+        enable = false
         owner = ""
         repo = ""
         clientId = ""
@@ -415,7 +415,7 @@ languageName = "English"
         outlined = false
       #  Commento comment config
       [params.page.comment.commento]
-        enable = true
+        enable = false
       #  utterances comment config
       [params.page.comment.utterances]
         enable = false
