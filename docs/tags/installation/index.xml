@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>installation - Tag - My New Hugo Site</title>
+        <title>installation - Tag - Exacavator</title>
         <link>https://fateawesome.github.io/fateawesome/tags/installation/</link>
-        <description>installation - Tag - My New Hugo Site</description>
+        <description>installation - Tag - Exacavator</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</lastBuildDate><atom:link href="https://fateawesome.github.io/fateawesome/tags/installation/" rel="self" type="application/rss+xml" /><item>
     <title>Theme Documentation - Basics</title>
     <link>https://fateawesome.github.io/fateawesome/theme-documentation-basics/</link>

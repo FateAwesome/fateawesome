@@ -1,4 +1,4 @@
-# baseURL = "http://example.org/"
+#baseURL = "http://example.org/"
 baseURL = "https://fateawesome.github.io/fateawesome/"
 
 publishDir = "docs"
@@ -7,7 +7,7 @@ publishDir = "docs"
 theme = "LoveIt"
 
 # website title
-title = "My New Hugo Site"
+title = "Exacavator"
 
 # language code ["en", "zh-CN", "fr", "pl", ...]
 languageCode = "en"
@@ -125,7 +125,7 @@ languageName = "English"
   #  App icon config
   [params.app]
     # optional site title override for the app when added to an iOS home screen or Android launcher
-    title = "My cool site"
+    title = "Exacavator's Manual"
     # whether to omit favicon resource links
     noFavicon = false
     # modern SVG favicon to use in place of older style .png and .ico files
@@ -173,13 +173,13 @@ languageName = "English"
       #  title shown in home page (HTML format is supported)
       title = ""
       # subtitle shown in home page (HTML format is supported)
-      subtitle = "I'm an Excavator, not a full-fledged though, little more than a miniature one."
+      subtitle = "There are numerous things in this world we don't know about, but are we willing to find out?"
       # whether to use typeit animation for subtitle
       typeit = true 
       # whether to show social links
       social = true
       #  disclaimer (HTML format is supported)
-      disclaimer = "All of the contect shown in this website are work on my own peronal capasity, use the information wisely"
+      disclaimer = "I write and make notes of what I do in my personal capacity. not what I note is always useful or guarantees results. The views expressed are my own and I assume no responsibility or liability for any errors or omissions in the content of this site. use the information wisely and at your own risk."
     # Home page posts
     [params.home.posts]
       enable = true
@@ -334,7 +334,7 @@ languageName = "English"
     [params.page.share]
       enable = true
       Twitter = true
-      Facebook = true
+      Facebook = false
       Linkedin = true
       Whatsapp = true
       Pinterest = false
@@ -362,20 +362,20 @@ languageName = "English"
       # Disqus comment config
       [params.page.comment.disqus]
         # 
-        enable = false
+        enable = true
         # Disqus shortname to use Disqus in posts
         shortname = ""
       # Gitalk comment config
       [params.page.comment.gitalk]
         # 
-        enable = false
+        enable = true
         owner = ""
         repo = ""
         clientId = ""
         clientSecret = ""
       # Valine comment config
       [params.page.comment.valine]
-        enable = false
+        enable = true
         appId = ""
         appKey = ""
         placeholder = ""
@@ -405,7 +405,7 @@ languageName = "English"
         languageCode = ""
       #  Telegram comments config
       [params.page.comment.telegram]
-        enable = false
+        enable = true
         siteID = ""
         limit = 5
         height = ""
@@ -415,7 +415,7 @@ languageName = "English"
         outlined = false
       #  Commento comment config
       [params.page.comment.commento]
-        enable = false
+        enable = true
       #  utterances comment config
       [params.page.comment.utterances]
         enable = false
