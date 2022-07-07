@@ -362,9 +362,9 @@ languageName = "English"
       # Disqus comment config
       [params.page.comment.disqus]
         # 
-        enable = false
+        enable = true
         # Disqus shortname to use Disqus in posts
-        shortname = ""
+        shortname = "examplesingh"
       # Gitalk comment config
       [params.page.comment.gitalk]
         # 
@@ -375,7 +375,7 @@ languageName = "English"
         clientSecret = ""
       # Valine comment config
       [params.page.comment.valine]
-        enable = true
+        enable = false
         appId = ""
         appKey = ""
         placeholder = ""
