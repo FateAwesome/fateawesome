@@ -173,7 +173,7 @@ languageName = "English"
       #  title shown in home page (HTML format is supported)
       title = ""
       # subtitle shown in home page (HTML format is supported)
-      subtitle = "There are numerous things in this world we don't know about, but are we willing to find out?"
+      subtitle = "Research has formalized curiosity,It is poking and prying with a purpose."
       # whether to use typeit animation for subtitle
       typeit = true 
       # whether to show social links
