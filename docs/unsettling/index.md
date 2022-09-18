@@ -33,5 +33,5 @@ Guess what? I can work like a jackass; it seems like **labor** is right on; **w
 I believe that sums up the "Labor" or, shall we say, nicely, "hard work" _[remember? To appease the greedy little..]_ Nevertheless, who doesn't do that? In their own ways. A donkey does, until his last breath… Anyway, **there's no shame in working hard, not at all, as long as you are willing to, and it's not forced.**
 But is that why I survived? Don't you think? **Am I not a tool to be utilized, to plow, sow, reap, and most importantly, to SURVIVE?** By this very own world, for this very own world, and yet I'm disgusted. Oh..I'm paid, though; yeah.. With scraps from my own life.
 
-### And, Yes! from my appearances, ladies, and gentlemen. Perhaps **I'm a donkey! As you see me fit.**
+### And, From YOUR angle..from MY appearances! ladies, and gentlemen. Perhaps **I'm a Donkey! As you see me fit.**
 
