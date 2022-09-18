@@ -2,15 +2,19 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://fateawesome.github.io/fateawesome/malware-analysis-lab/</loc><lastmod>2022-07-08T00:18:03&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://fateawesome.github.io/fateawesome/malware-analysis-lab/</loc><lastmod>2022-07-08T00:18:03&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://fateawesome.github.io/fateawesome/unsettling/</loc><lastmod>2022-09-18T22:43:02&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://fateawesome.github.io/fateawesome/testpost/</loc><lastmod>2020-03-06T21:29:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://fateawesome.github.io/fateawesome/</loc><lastmod>2022-07-09T22:52:10&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://fateawesome.github.io/fateawesome/posts/</loc><lastmod>2022-07-09T22:52:10&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://fateawesome.github.io/fateawesome/test-new-post/</loc><lastmod>2022-07-09T22:52:10&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://fateawesome.github.io/fateawesome/categories/</loc><lastmod>2022-07-08T00:18:03&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://fateawesome.github.io/fateawesome/tags/configuration/</loc><lastmod>2022-07-08T00:18:03&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://fateawesome.github.io/fateawesome/categories/documentation/</loc><lastmod>2022-07-08T00:18:03&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://fateawesome.github.io/fateawesome/tags/installation/</loc><lastmod>2022-07-08T00:18:03&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://fateawesome.github.io/fateawesome/tags/</loc><lastmod>2022-07-08T00:18:03&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://fateawesome.github.io/fateawesome/categories/</loc><lastmod>2022-09-18T22:43:02&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://fateawesome.github.io/fateawesome/</loc><lastmod>2022-09-18T22:43:02&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://fateawesome.github.io/fateawesome/categories/life/</loc><lastmod>2022-09-18T22:43:02&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://fateawesome.github.io/fateawesome/posts/</loc><lastmod>2022-09-18T22:43:02&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://fateawesome.github.io/fateawesome/tags/provoking/</loc><lastmod>2022-09-18T22:43:02&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://fateawesome.github.io/fateawesome/tags/</loc><lastmod>2022-09-18T22:43:02&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://fateawesome.github.io/fateawesome/tags/thoughts/</loc><lastmod>2022-09-18T22:43:02&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://fateawesome.github.io/fateawesome/test-new-post/</loc><lastmod>2022-07-09T22:52:10&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://fateawesome.github.io/fateawesome/tags/configuration/</loc><lastmod>2022-07-08T00:18:03&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://fateawesome.github.io/fateawesome/categories/documentation/</loc><lastmod>2022-07-08T00:18:03&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://fateawesome.github.io/fateawesome/tags/installation/</loc><lastmod>2022-07-08T00:18:03&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://fateawesome.github.io/fateawesome/tags/fun/</loc><lastmod>2020-03-06T21:29:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://fateawesome.github.io/fateawesome/tags/test-post/</loc><lastmod>2020-03-06T21:29:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>

@@ -3,13 +3,21 @@
         <title>All Posts - Exacavator</title>
         <link>https://fateawesome.github.io/fateawesome/posts/</link>
         <description>All Posts | Exacavator</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 09 Jul 2022 22:52:10 &#43;0530</lastBuildDate><atom:link href="https://fateawesome.github.io/fateawesome/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 18 Sep 2022 22:43:02 &#43;0530</lastBuildDate><atom:link href="https://fateawesome.github.io/fateawesome/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Building a simple Malware Analysis Lab</title>
     <link>https://fateawesome.github.io/fateawesome/malware-analysis-lab/</link>
     <pubDate>Fri, 08 Jul 2022 00:18:03 &#43;0530</pubDate>
     <author>Excavator</author>
     <guid>https://fateawesome.github.io/fateawesome/malware-analysis-lab/</guid>
     <description><![CDATA[<p>Discover how to build a simple <strong>Malware Analysis Lab</strong>, with all the <strong>Precautions</strong> offcourse.</p>]]></description>
+</item>
+<item>
+    <title>I&#39;m a donkey, as you see me fit!</title>
+    <link>https://fateawesome.github.io/fateawesome/unsettling/</link>
+    <pubDate>Sun, 18 Sep 2022 22:43:02 &#43;0530</pubDate>
+    <author>Excavator</author>
+    <guid>https://fateawesome.github.io/fateawesome/unsettling/</guid>
+    <description><![CDATA[<p>Ransom, Unsettling Thought - <strong>I&rsquo;m a donkey, as you see me fit!</strong></p>]]></description>
 </item>
 <item>
     <title>This is a test Post</title>
